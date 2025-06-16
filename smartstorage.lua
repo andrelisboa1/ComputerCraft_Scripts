@@ -8,3 +8,6 @@ function writeToMonitor(x, y, txt, color)
 end
 
 writeToMonitor(1, 1, "[ Welcome to the ]", colors.yellow)
+writeToMonitor(1, 2, "[ Smart Storage! ]", colors.yellow)
+
+writeToMonitor(3, 4, "[ Load Up ]", colors.green)
